@@ -1,0 +1,10 @@
+numbers_data = (15, 22, 10, 30, 5, 25, 18)
+sum = sum(numbers_data)
+max = max(numbers_data)
+min = min(numbers_data)
+arifmetic_mean = sum / len(numbers_data)
+
+print(f"Сумма всех элементов кортежа = {sum}")
+print(f"Среднее арифметическое элементов кортежа = {arifmetic_mean}")
+print(f"Максимальное значение в кортеже = {max}")
+print(f"Минимальное значение в кортеже = {min}")
