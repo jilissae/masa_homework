@@ -1,0 +1,14 @@
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments (если вдруг появятся)
+venv/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db
